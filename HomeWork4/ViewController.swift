@@ -28,7 +28,10 @@ class ViewController: UIViewController {
             return left.1 < right.1
         }
         print(arraySorted)
-        
     }
+    
+    
+    
+    
 }
 
